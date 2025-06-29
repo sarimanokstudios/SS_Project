@@ -1,5 +1,4 @@
-# FULL BUILD by GEMINI
-
+# FULL BUILD of Sarimanok Studios Photo Booth App
 Absolutely. This is the most exciting step. Let's build it.
 
 Given the complexity, we will construct this in a series of guided, code-heavy parts. Trying to do it all in one go would be overwhelming. We will build a **fully functional prototype** that demonstrates every core mechanic of your vision.
